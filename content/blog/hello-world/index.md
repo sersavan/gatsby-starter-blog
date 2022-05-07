@@ -1,27 +1,18 @@
 ---
-title: Hello World
+title: БАЛЬЗАК - Интуитивно - Логический Интроверт (INTP)
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "БАЛЬЗАК - Интуитивно - Логический Интроверт (INTP)"
 ---
-
-This is my first post on my new fake blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future.
+# Черты характера
+Спокойный, задумчивый, невозмутимый Бальзак не любит быть на виду, предпочтет одиночество шумной толпе. Любит читать, жаждет новых знаний. Выраженный меланхолик и философ, он вдумчив и наблюдателен. Стремится к действиям, которые приносят пользу. К работе подходит со всей тщательностью, добросовестно и исполнительно. Хотя вне работы достаточно ленив. Хорошо эрудирован, любит цитировать прочитанное. У Бальзака сильная интуиция, которая помогает ему смотреть в будущее.
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+> eggs in brine, or packing each egg in damp, salted charcoal.
 
 ![Chinese Salty Egg](./salty_egg.jpg)
-
-You can also write code blocks here!
 
 ```js
 const saltyDuckEgg = "chinese preserved food product"
@@ -35,24 +26,12 @@ const saltyDuckEgg = "chinese preserved food product"
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
-This is a paragraph.
-
     This is a paragraph.
 
 # Header 1
 
 ## Header 2
 
-    Header 1
-    ========
-
-    Header 2
-    --------
-
-# Header 1
-
-## Header 2
-
 ### Header 3
 
 #### Header 4
@@ -60,36 +39,8 @@ This is a paragraph.
 ##### Header 5
 
 ###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
 
 > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
 > ## This is a header.
 >
@@ -99,14 +50,6 @@ This is a paragraph.
 > Here's some example code:
 >
 >     Markdown.generate();
-
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
 
 - Red
 - Green
@@ -172,14 +115,6 @@ Paragraph:
 
 ---
 
----
-
----
-
----
-
----
-
     * * *
 
     ***
@@ -226,6 +161,6 @@ This paragraph has some `code` in it.
 
     This paragraph has some `code` in it.
 
-![Alt Text](https://placehold.it/200x50 "Image Title")
+![Alt Text](https://via.placeholder.com/300/09f/fff.png "Image Title")
 
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
+    ![Alt Text](https://via.placeholder.com/300/09f/fff.png "Image Title")
